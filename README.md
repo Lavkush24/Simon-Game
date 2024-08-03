@@ -1,5 +1,5 @@
 # Simon Game
-This repo contain vitual version SIMON GAME .
+This repo contain virtual version of SIMON GAME .
 
 # Technology 
 I develop this using HTML, CSS, JAVASCRIPT.
